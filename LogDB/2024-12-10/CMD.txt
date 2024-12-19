@@ -1,0 +1,1255 @@
+** armor_enchant_list table: 加载完成 [1ms]
+** weapon_enchant_list table: 加载完成 [0ms]
+** weapon_skill table: 加载完成 [1ms]
+** data/xml/NpcActions: 加载完成 [62ms]
+** data/xml/Cycle/BossCycle.xml: 加载完成 [25ms]
+** data/xml/Item/HealingPotion.xml: 加载完成 [4ms]
+** weapon_damege table: 加载完成 [0ms]
+** accessory_enchant_list table: 加载完成 [1ms]
+** spawnlist_boss_hot table: 加载完成 1ms
+** server.threads.pc.CharacterQuickCheckThread: 加载完成
+
+********************************************************************
+
+** rates
+** 经验值: 50.0倍
+** 血盟经验值追加: 60.0%
+** 金币: 1.0倍
+** 道具: 1.2倍
+** 正义值: 2.0倍
+** 负重: 2.0倍
+** 武器强化: 10%
+** 防具强化: 10%
+** 饰品强化: 10%
+** 公告周期: 10分钟
+** 连接奖励周期: 12分钟
+
+** altsettings
+** 自动狩猎状态: true
+** 自动药水状态: true
+** 新血盟保护状态: false
+** 队伍最大人数: 30人
+** 队伍最大聊天人数: 30人
+** 血盟BUFF最小人数: 3人
+** 个人仓库最大数量: 150个
+** 血盟仓库最大数量: 150个
+** 自动拾取状态: 0
+** 自动拾取范围: 8格
+** 世界地图清理周期: 15分钟
+
+** charsettings
+** 王族: (最大HP/MP) 3400/800
+** 骑士: (最大HP/MP) 3600/600
+** 精灵: (最大HP/MP) 3000/900
+** 法师: (最大HP/MP) 2800/1800
+** 黑暗精灵: (最大HP/MP) 2000/800
+** 龙骑士: (最大HP/MP) 3000/800
+** 幻术师: (最大HP/MP) 3000/900
+** 狂战士: (最大HP/MP) 3000/1000
+** 等级限制: 99
+** 防具限制: -270
+
+** 其他设置
+** 彩票状态: true
+** 彩票参与等级: 80
+** 彩票投注金额: 1000
+** 彩票奖金: 10000 = (在线人数 × 投注金额)
+** 彩票开奖时间: 19:00,23:00,03:00,07:00,11:00,15:00
+** 是否无限钓鱼: true
+** 角色槽数量: 3个
+
+********************************************************************
+** IP   192.168.110.102   端口 2000
+********************************************************************
+[2024-12-09 23:59:41][127.0.0.1:59390] [접속시도중]:(1/1)
+[2024-12-09 23:59:44][127.0.0.1:59390] 연결 종료[정상]
+无法加载'config/buildtime.properties'。请确保文件存在并可访问。
+** world map data: 加载完成 [158ms]
+** armor_enchant_list table: 加载完成 [1ms]
+** weapon_enchant_list table: 加载完成 [1ms]
+** weapon_skill table: 加载完成 [2ms]
+** data/xml/NpcActions: 加载完成 [64ms]
+** data/xml/Cycle/BossCycle.xml: 加载完成 [28ms]
+** data/xml/Item/HealingPotion.xml: 加载完成 [5ms]
+** weapon_damege table: 加载完成 [1ms]
+** accessory_enchant_list table: 加载完成 [1ms]
+** spawnlist_boss_hot table: 加载完成 1ms
+** server.threads.pc.CharacterQuickCheckThread: 加载完成
+
+********************************************************************
+
+** rates
+** 经验值: 50.0倍
+** 血盟经验值追加: 60.0%
+** 金币: 1.0倍
+** 道具: 1.2倍
+** 正义值: 2.0倍
+** 负重: 2.0倍
+** 武器强化: 10%
+** 防具强化: 10%
+** 饰品强化: 10%
+** 公告周期: 10分钟
+** 连接奖励周期: 12分钟
+
+** altsettings
+** 自动狩猎状态: true
+** 自动药水状态: true
+** 新血盟保护状态: false
+** 队伍最大人数: 30人
+** 队伍最大聊天人数: 30人
+** 血盟BUFF最小人数: 3人
+** 个人仓库最大数量: 150个
+** 血盟仓库最大数量: 150个
+** 自动拾取状态: 0
+** 自动拾取范围: 8格
+** 世界地图清理周期: 15分钟
+
+** charsettings
+** 王族: (最大HP/MP) 3400/800
+** 骑士: (最大HP/MP) 3600/600
+** 精灵: (最大HP/MP) 3000/900
+** 法师: (最大HP/MP) 2800/1800
+** 黑暗精灵: (最大HP/MP) 2000/800
+** 龙骑士: (最大HP/MP) 3000/800
+** 幻术师: (最大HP/MP) 3000/900
+** 狂战士: (最大HP/MP) 3000/1000
+** 等级限制: 99
+** 防具限制: -270
+
+** 其他设置
+** 彩票状态: true
+** 彩票参与等级: 80
+** 彩票投注金额: 1000
+** 彩票奖金: 10000 = (在线人数 × 投注金额)
+** 彩票开奖时间: 19:00,23:00,03:00,07:00,11:00,15:00
+** 是否无限钓鱼: true
+** 角色槽数量: 3个
+
+********************************************************************
+** IP   192.168.110.102   端口 2000
+********************************************************************
+[2024-12-10 00:04:14][127.0.0.1:60238] [접속시도중]:(1/1)
+[2024-12-10 00:04:16][127.0.0.1:60238] 연결 종료[정상]
+无法加载'config/buildtime.properties'。请确保文件存在并可访问。
+** world map data: 加载完成 [156ms]
+** armor_enchant_list table: 加载完成 [1ms]
+** weapon_enchant_list table: 加载完成 [1ms]
+** weapon_skill table: 加载完成 [2ms]
+** data/xml/NpcActions: 加载完成 [70ms]
+** data/xml/Cycle/BossCycle.xml: 加载完成 [27ms]
+** data/xml/Item/HealingPotion.xml: 加载完成 [4ms]
+** weapon_damege table: 加载完成 [1ms]
+** accessory_enchant_list table: 加载完成 [1ms]
+** spawnlist_boss_hot table: 加载完成 1ms
+** server.threads.pc.CharacterQuickCheckThread: 加载完成
+
+********************************************************************
+
+** rates
+** 经验值: 50.0倍
+** 血盟经验值追加: 60.0%
+** 金币: 1.0倍
+** 道具: 1.2倍
+** 正义值: 2.0倍
+** 负重: 2.0倍
+** 武器强化: 10%
+** 防具强化: 10%
+** 饰品强化: 10%
+** 公告周期: 10分钟
+** 连接奖励周期: 12分钟
+
+** altsettings
+** 自动狩猎状态: true
+** 自动药水状态: true
+** 新血盟保护状态: false
+** 队伍最大人数: 30人
+** 队伍最大聊天人数: 30人
+** 血盟BUFF最小人数: 3人
+** 个人仓库最大数量: 150个
+** 血盟仓库最大数量: 150个
+** 自动拾取状态: 0
+** 自动拾取范围: 8格
+** 世界地图清理周期: 15分钟
+
+** charsettings
+** 王族: (最大HP/MP) 3400/800
+** 骑士: (最大HP/MP) 3600/600
+** 精灵: (最大HP/MP) 3000/900
+** 法师: (最大HP/MP) 2800/1800
+** 黑暗精灵: (最大HP/MP) 2000/800
+** 龙骑士: (最大HP/MP) 3000/800
+** 幻术师: (最大HP/MP) 3000/900
+** 狂战士: (最大HP/MP) 3000/1000
+** 等级限制: 99
+** 防具限制: -270
+
+** 其他设置
+** 彩票状态: true
+** 彩票参与等级: 80
+** 彩票投注金额: 1000
+** 彩票奖金: 10000 = (在线人数 × 投注金额)
+** 彩票开奖时间: 19:00,23:00,03:00,07:00,11:00,15:00
+** 是否无限钓鱼: true
+** 角色槽数量: 3个
+
+********************************************************************
+** IP   192.168.110.102   端口 2000
+********************************************************************
+[2024-12-10 00:08:34][127.0.0.1:61384] [접속시도중]:(1/1)
+[2024-12-10 00:08:36][127.0.0.1:61384] 연결 종료[정상]
+无法加载'config/buildtime.properties'。请确保文件存在并可访问。
+** world map data: 加载完成 [159ms]
+** armor_enchant_list table: 加载完成 [1ms]
+** weapon_enchant_list table: 加载完成 [1ms]
+** weapon_skill table: 加载完成 [2ms]
+** data/xml/NpcActions: 加载完成 [68ms]
+** data/xml/Cycle/BossCycle.xml: 加载完成 [29ms]
+** data/xml/Item/HealingPotion.xml: 加载完成 [6ms]
+** weapon_damege table: 加载完成 [1ms]
+** accessory_enchant_list table: 加载完成 [1ms]
+** spawnlist_boss_hot table: 加载完成 0ms
+** server.threads.pc.CharacterQuickCheckThread: 加载完成
+
+********************************************************************
+
+** rates
+** 经验值: 50.0倍
+** 血盟经验值追加: 60.0%
+** 金币: 1.0倍
+** 道具: 1.2倍
+** 正义值: 2.0倍
+** 负重: 2.0倍
+** 武器强化: 10%
+** 防具强化: 10%
+** 饰品强化: 10%
+** 公告周期: 10分钟
+** 连接奖励周期: 12分钟
+
+** altsettings
+** 自动狩猎状态: true
+** 自动药水状态: true
+** 新血盟保护状态: false
+** 队伍最大人数: 30人
+** 队伍最大聊天人数: 30人
+** 血盟BUFF最小人数: 3人
+** 个人仓库最大数量: 150个
+** 血盟仓库最大数量: 150个
+** 自动拾取状态: 0
+** 自动拾取范围: 8格
+** 世界地图清理周期: 15分钟
+
+** charsettings
+** 王族: (最大HP/MP) 3400/800
+** 骑士: (最大HP/MP) 3600/600
+** 精灵: (最大HP/MP) 3000/900
+** 法师: (最大HP/MP) 2800/1800
+** 黑暗精灵: (最大HP/MP) 2000/800
+** 龙骑士: (最大HP/MP) 3000/800
+** 幻术师: (最大HP/MP) 3000/900
+** 狂战士: (最大HP/MP) 3000/1000
+** 等级限制: 99
+** 防具限制: -270
+
+** 其他设置
+** 彩票状态: true
+** 彩票参与等级: 80
+** 彩票投注金额: 1000
+** 彩票奖金: 10000 = (在线人数 × 投注金额)
+** 彩票开奖时间: 19:00,23:00,03:00,07:00,11:00,15:00
+** 是否无限钓鱼: true
+** 角色槽数量: 3个
+
+********************************************************************
+** IP   192.168.110.102   端口 2000
+********************************************************************
+[2024-12-10 00:10:55][127.0.0.1:62032] [접속시도중]:(1/1)
+[2024-12-10 00:10:58][127.0.0.1:62032] 연결 종료[정상]
+无法加载'config/buildtime.properties'。请确保文件存在并可访问。
+** world map data: 加载完成 [159ms]
+** armor_enchant_list table: 加载完成 [1ms]
+** weapon_enchant_list table: 加载完成 [1ms]
+** weapon_skill table: 加载完成 [2ms]
+** data/xml/NpcActions: 加载完成 [73ms]
+** data/xml/Cycle/BossCycle.xml: 加载完成 [29ms]
+** data/xml/Item/HealingPotion.xml: 加载完成 [5ms]
+** weapon_damege table: 加载完成 [0ms]
+** accessory_enchant_list table: 加载完成 [1ms]
+** spawnlist_boss_hot table: 加载完成 1ms
+** server.threads.pc.CharacterQuickCheckThread: 加载完成
+
+********************************************************************
+
+** rates
+** 经验值: 50.0倍
+** 血盟经验值追加: 60.0%
+** 金币: 1.0倍
+** 道具: 1.2倍
+** 正义值: 2.0倍
+** 负重: 2.0倍
+** 武器强化: 10%
+** 防具强化: 10%
+** 饰品强化: 10%
+** 公告周期: 10分钟
+** 连接奖励周期: 12分钟
+
+** altsettings
+** 自动狩猎状态: true
+** 自动药水状态: true
+** 新血盟保护状态: false
+** 队伍最大人数: 30人
+** 队伍最大聊天人数: 30人
+** 血盟BUFF最小人数: 3人
+** 个人仓库最大数量: 150个
+** 血盟仓库最大数量: 150个
+** 自动拾取状态: 0
+** 自动拾取范围: 8格
+** 世界地图清理周期: 15分钟
+
+** charsettings
+** 王族: (最大HP/MP) 3400/800
+** 骑士: (最大HP/MP) 3600/600
+** 精灵: (最大HP/MP) 3000/900
+** 法师: (最大HP/MP) 2800/1800
+** 黑暗精灵: (最大HP/MP) 2000/800
+** 龙骑士: (最大HP/MP) 3000/800
+** 幻术师: (最大HP/MP) 3000/900
+** 狂战士: (最大HP/MP) 3000/1000
+** 等级限制: 99
+** 防具限制: -270
+
+** 其他设置
+** 彩票状态: true
+** 彩票参与等级: 80
+** 彩票投注金额: 1000
+** 彩票奖金: 10000 = (在线人数 × 投注金额)
+** 彩票开奖时间: 19:00,23:00,03:00,07:00,11:00,15:00
+** 是否无限钓鱼: true
+** 角色槽数量: 3个
+
+********************************************************************
+** IP   192.168.110.102   端口 2000
+********************************************************************
+[2024-12-10 00:12:10][127.0.0.1:62281] [접속시도중]:(1/1)
+[2024-12-10 00:12:13][127.0.0.1:62281] 연결 종료[정상]
+无法加载'config/buildtime.properties'。请确保文件存在并可访问。
+** world map data: 加载完成 [157ms]
+** armor_enchant_list table: 加载完成 [1ms]
+** weapon_enchant_list table: 加载完成 [0ms]
+** weapon_skill table: 加载完成 [2ms]
+** data/xml/NpcActions: 加载完成 [58ms]
+** data/xml/Cycle/BossCycle.xml: 加载完成 [27ms]
+** data/xml/Item/HealingPotion.xml: 加载完成 [4ms]
+** weapon_damege table: 加载完成 [0ms]
+** accessory_enchant_list table: 加载完成 [1ms]
+** spawnlist_boss_hot table: 加载完成 0ms
+** server.threads.pc.CharacterQuickCheckThread: 加载完成
+********************************************************************
+
+** rates
+** 经验值: 50.0倍
+** 血盟经验值追加: 60.0%
+** 金币: 1.0倍
+** 道具: 1.2倍
+** 正义值: 2.0倍
+** 负重: 2.0倍
+** 武器强化: 10%
+** 防具强化: 10%
+** 饰品强化: 10%
+** 公告周期: 10分钟
+** 连接奖励周期: 12分钟
+
+** altsettings
+** 自动狩猎状态: true
+** 自动药水状态: true
+** 新血盟保护状态: false
+** 队伍最大人数: 30人
+** 队伍最大聊天人数: 30人
+** 血盟BUFF最小人数: 3人
+** 个人仓库最大数量: 150个
+** 血盟仓库最大数量: 150个
+** 自动拾取状态: 0
+** 自动拾取范围: 8格
+** 世界地图清理周期: 15分钟
+
+** charsettings
+** 王族: (最大HP/MP) 3400/800
+** 骑士: (最大HP/MP) 3600/600
+** 精灵: (最大HP/MP) 3000/900
+** 法师: (最大HP/MP) 2800/1800
+** 黑暗精灵: (最大HP/MP) 2000/800
+** 龙骑士: (最大HP/MP) 3000/800
+** 幻术师: (最大HP/MP) 3000/900
+** 狂战士: (最大HP/MP) 3000/1000
+** 等级限制: 99
+** 防具限制: -270
+
+** 其他设置
+** 彩票状态: true
+** 彩票参与等级: 80
+** 彩票投注金额: 1000
+** 彩票奖金: 10000 = (在线人数 × 投注金额)
+** 彩票开奖时间: 19:00,23:00,03:00,07:00,11:00,15:00
+** 是否无限钓鱼: true
+** 角色槽数量: 3个
+
+********************************************************************
+** IP   192.168.110.102   端口 2000
+********************************************************************
+[2024-12-10 00:13:40][127.0.0.1:62551] [접속시도중]:(1/1)
+[2024-12-10 00:13:41][127.0.0.1:62551] 연결 종료[정상]
+无法加载'config/buildtime.properties'。请确保文件存在并可访问。
+** world map data: 加载完成 [165ms]
+** armor_enchant_list table: 加载完成 [0ms]
+** weapon_enchant_list table: 加载完成 [0ms]
+** weapon_skill table: 加载完成 [1ms]
+** data/xml/NpcActions: 加载完成 [63ms]
+** data/xml/Cycle/BossCycle.xml: 加载完成 [26ms]
+** data/xml/Item/HealingPotion.xml: 加载完成 [8ms]
+** weapon_damege table: 加载完成 [0ms]
+** accessory_enchant_list table: 加载完成 [1ms]
+** spawnlist_boss_hot table: 加载完成 1ms
+** server.threads.pc.CharacterQuickCheckThread: 加载完成
+
+********************************************************************
+
+** rates
+** 经验值: 50.0倍
+** 血盟经验值追加: 60.0%
+** 金币: 1.0倍
+** 道具: 1.2倍
+** 正义值: 2.0倍
+** 负重: 2.0倍
+** 武器强化: 10%
+** 防具强化: 10%
+** 饰品强化: 10%
+** 公告周期: 10分钟
+** 连接奖励周期: 12分钟
+
+** altsettings
+** 自动狩猎状态: true
+** 自动药水状态: true
+** 新血盟保护状态: false
+** 队伍最大人数: 30人
+** 队伍最大聊天人数: 30人
+** 血盟BUFF最小人数: 3人
+** 个人仓库最大数量: 150个
+** 血盟仓库最大数量: 150个
+** 自动拾取状态: 0
+** 自动拾取范围: 8格
+** 世界地图清理周期: 15分钟
+
+** charsettings
+** 王族: (最大HP/MP) 3400/800
+** 骑士: (最大HP/MP) 3600/600
+** 精灵: (最大HP/MP) 3000/900
+** 法师: (最大HP/MP) 2800/1800
+** 黑暗精灵: (最大HP/MP) 2000/800
+** 龙骑士: (最大HP/MP) 3000/800
+** 幻术师: (最大HP/MP) 3000/900
+** 狂战士: (最大HP/MP) 3000/1000
+** 等级限制: 99
+** 防具限制: -270
+
+** 其他设置
+** 彩票状态: true
+** 彩票参与等级: 80
+** 彩票投注金额: 1000
+** 彩票奖金: 10000 = (在线人数 × 投注金额)
+** 彩票开奖时间: 19:00,23:00,03:00,07:00,11:00,15:00
+** 是否无限钓鱼: true
+** 角色槽数量: 3个
+
+********************************************************************
+** IP   192.168.110.102   端口 2000
+********************************************************************
+[2024-12-10 00:21:10][127.0.0.1:63924] [접속시도중]:(1/1)
+671327 / 82989199
+───────────────────────────────────────
+▶　계정생성초과! 생성시도 계정명 :  671327　◀
+───────────────────────────────────────
+[2024-12-10 00:21:19][127.0.0.1:63924] 연결 종료[정상]
+[2024-12-10 00:21:28][127.0.0.1:63968] [접속시도중]:(1/1)
+123456 / 123456
+───────────────────────────────────────
+▶　계정생성초과! 생성시도 계정명 :  123456　◀
+───────────────────────────────────────
+[2024-12-10 00:21:33][127.0.0.1:63968] 연결 종료[정상]
+无法加载'config/buildtime.properties'。请确保文件存在并可访问。
+** world map data: 加载完成 [157ms]
+** armor_enchant_list table: 加载完成 [1ms]
+** weapon_enchant_list table: 加载完成 [2ms]
+** weapon_skill table: 加载完成 [1ms]
+** data/xml/NpcActions: 加载完成 [65ms]
+** data/xml/Cycle/BossCycle.xml: 加载完成 [31ms]
+** data/xml/Item/HealingPotion.xml: 加载完成 [8ms]
+** weapon_damege table: 加载完成 [1ms]
+** accessory_enchant_list table: 加载完成 [1ms]
+** spawnlist_boss_hot table: 加载完成 0ms
+** server.threads.pc.CharacterQuickCheckThread: 加载完成
+
+********************************************************************
+
+** rates
+** 经验值: 50.0倍
+** 血盟经验值追加: 60.0%
+** 金币: 1.0倍
+** 道具: 1.2倍
+** 正义值: 2.0倍
+** 负重: 2.0倍
+** 武器强化: 10%
+** 防具强化: 10%
+** 饰品强化: 10%
+** 公告周期: 10分钟
+** 连接奖励周期: 12分钟
+
+** altsettings
+** 自动狩猎状态: true
+** 自动药水状态: true
+** 新血盟保护状态: false
+** 队伍最大人数: 30人
+** 队伍最大聊天人数: 30人
+** 血盟BUFF最小人数: 3人
+** 个人仓库最大数量: 150个
+** 血盟仓库最大数量: 150个
+** 自动拾取状态: 0
+** 自动拾取范围: 8格
+** 世界地图清理周期: 15分钟
+
+** charsettings
+** 王族: (最大HP/MP) 3400/800
+** 骑士: (最大HP/MP) 3600/600
+** 精灵: (最大HP/MP) 3000/900
+** 法师: (最大HP/MP) 2800/1800
+** 黑暗精灵: (最大HP/MP) 2000/800
+** 龙骑士: (最大HP/MP) 3000/800
+** 幻术师: (最大HP/MP) 3000/900
+** 狂战士: (最大HP/MP) 3000/1000
+** 等级限制: 99
+** 防具限制: -270
+
+** 其他设置
+** 彩票状态: true
+** 彩票参与等级: 80
+** 彩票投注金额: 1000
+** 彩票奖金: 10000 = (在线人数 × 投注金额)
+** 彩票开奖时间: 19:00,23:00,03:00,07:00,11:00,15:00
+** 是否无限钓鱼: true
+** 角色槽数量: 3个
+
+********************************************************************
+** IP   192.168.110.102   端口 2000
+********************************************************************
+[2024-12-10 00:34:55][127.0.0.1:1313] [접속시도중]:(1/1)
+671327 / 82989199
+───────────────────────────────────────
+▶　계정생성초과! 생성시도 계정명 :  671327　◀
+───────────────────────────────────────
+[2024-12-10 00:35:11][127.0.0.1:1313] 연결 종료[정상]
+无法加载'config/buildtime.properties'。请确保文件存在并可访问。
+** world map data: 加载完成 [166ms]
+** armor_enchant_list table: 加载完成 [1ms]
+** weapon_enchant_list table: 加载完成 [2ms]
+** weapon_skill table: 加载完成 [2ms]
+** data/xml/NpcActions: 加载完成 [59ms]
+** data/xml/Cycle/BossCycle.xml: 加载完成 [26ms]
+** data/xml/Item/HealingPotion.xml: 加载完成 [6ms]
+** weapon_damege table: 加载完成 [1ms]
+** accessory_enchant_list table: 加载完成 [2ms]
+** spawnlist_boss_hot table: 加载完成 1ms
+** server.threads.pc.CharacterQuickCheckThread: 加载完成
+
+********************************************************************
+
+** rates
+** 经验值: 50.0倍
+** 血盟经验值追加: 60.0%
+** 金币: 1.0倍
+** 道具: 1.2倍
+** 正义值: 2.0倍
+** 负重: 2.0倍
+** 武器强化: 10%
+** 防具强化: 10%
+** 饰品强化: 10%
+** 公告周期: 10分钟
+** 连接奖励周期: 12分钟
+
+** altsettings
+** 自动狩猎状态: true
+** 自动药水状态: true
+** 新血盟保护状态: false
+** 队伍最大人数: 30人
+** 队伍最大聊天人数: 30人
+** 血盟BUFF最小人数: 3人
+** 个人仓库最大数量: 150个
+** 血盟仓库最大数量: 150个
+** 自动拾取状态: 0
+** 自动拾取范围: 8格
+** 世界地图清理周期: 15分钟
+
+** charsettings
+** 王族: (最大HP/MP) 3400/800
+** 骑士: (最大HP/MP) 3600/600
+** 精灵: (最大HP/MP) 3000/900
+** 法师: (最大HP/MP) 2800/1800
+** 黑暗精灵: (最大HP/MP) 2000/800
+** 龙骑士: (最大HP/MP) 3000/800
+** 幻术师: (最大HP/MP) 3000/900
+** 狂战士: (最大HP/MP) 3000/1000
+** 等级限制: 99
+** 防具限制: -270
+
+** 其他设置
+** 彩票状态: true
+** 彩票参与等级: 80
+** 彩票投注金额: 1000
+** 彩票奖金: 10000 = (在线人数 × 投注金额)
+** 彩票开奖时间: 19:00,23:00,03:00,07:00,11:00,15:00
+** 是否无限钓鱼: true
+** 角色槽数量: 3个
+
+********************************************************************
+** IP   192.168.110.102   端口 2000
+********************************************************************
+[2024-12-10 00:37:42][127.0.0.1:2010] [접속시도중]:(1/1)
+671327 / 82989199
+───────────────────────────────────────
+▶　계정생성초과! 생성시도 계정명 :  671327　◀
+───────────────────────────────────────
+[2024-12-10 00:38:07][127.0.0.1:2010] 연결 종료[정상]
+无法加载'config/buildtime.properties'。请确保文件存在并可访问。
+** world map data: 加载完成 [164ms]
+** armor_enchant_list table: 加载完成 [1ms]
+** weapon_enchant_list table: 加载完成 [1ms]
+** weapon_skill table: 加载完成 [2ms]
+** data/xml/NpcActions: 加载完成 [68ms]
+** data/xml/Cycle/BossCycle.xml: 加载完成 [31ms]
+** data/xml/Item/HealingPotion.xml: 加载完成 [5ms]
+** weapon_damege table: 加载完成 [1ms]
+** accessory_enchant_list table: 加载完成 [2ms]
+** spawnlist_boss_hot table: 加载完成 2ms
+** server.threads.pc.CharacterQuickCheckThread: 加载完成
+
+********************************************************************
+
+** rates
+** 经验值: 50.0倍
+** 血盟经验值追加: 60.0%
+** 金币: 1.0倍
+** 道具: 1.2倍
+** 正义值: 2.0倍
+** 负重: 2.0倍
+** 武器强化: 10%
+** 防具强化: 10%
+** 饰品强化: 10%
+** 公告周期: 10分钟
+** 连接奖励周期: 12分钟
+
+** altsettings
+** 自动狩猎状态: true
+** 自动药水状态: true
+** 新血盟保护状态: false
+** 队伍最大人数: 30人
+** 队伍最大聊天人数: 30人
+** 血盟BUFF最小人数: 3人
+** 个人仓库最大数量: 150个
+** 血盟仓库最大数量: 150个
+** 自动拾取状态: 0
+** 自动拾取范围: 8格
+** 世界地图清理周期: 15分钟
+
+** charsettings
+** 王族: (最大HP/MP) 3400/800
+** 骑士: (最大HP/MP) 3600/600
+** 精灵: (最大HP/MP) 3000/900
+** 法师: (最大HP/MP) 2800/1800
+** 黑暗精灵: (最大HP/MP) 2000/800
+** 龙骑士: (最大HP/MP) 3000/800
+** 幻术师: (最大HP/MP) 3000/900
+** 狂战士: (最大HP/MP) 3000/1000
+** 等级限制: 99
+** 防具限制: -270
+
+** 其他设置
+** 彩票状态: true
+** 彩票参与等级: 80
+** 彩票投注金额: 1000
+** 彩票奖金: 10000 = (在线人数 × 投注金额)
+** 彩票开奖时间: 19:00,23:00,03:00,07:00,11:00,15:00
+** 是否无限钓鱼: true
+** 角色槽数量: 3个
+
+********************************************************************
+** IP   192.168.110.102   端口 2000
+********************************************************************
+[2024-12-10 01:50:14][127.0.0.1:23367] [접속시도중]:(1/1)
+111111 / 1111
+───────────────────────────────────────
+▶　계정생성초과! 생성시도 계정명 :  111111　◀
+───────────────────────────────────────
+[2024-12-10 01:50:29][127.0.0.1:23367] 연결 종료[정상]
+[2024-12-10 01:52:09][127.0.0.1:23937] [접속시도중]:(1/1)
+admin / admion
+admin / 1111
+[2024-12-10 01:52:57][127.0.0.1:23937] 연결 종료[정상]
+无法加载'config/buildtime.properties'。请确保文件存在并可访问。
+** world map data: 加载完成 [154ms]
+** armor_enchant_list table: 加载完成 [2ms]
+** weapon_enchant_list table: 加载完成 [1ms]
+** weapon_skill table: 加载完成 [2ms]
+** data/xml/NpcActions: 加载完成 [65ms]
+** data/xml/Cycle/BossCycle.xml: 加载完成 [25ms]
+** data/xml/Item/HealingPotion.xml: 加载完成 [5ms]
+** weapon_damege table: 加载完成 [0ms]
+** accessory_enchant_list table: 加载完成 [2ms]
+** spawnlist_boss_hot table: 加载完成 1ms
+** server.threads.pc.CharacterQuickCheckThread: 加载完成
+
+********************************************************************
+
+** rates
+** 经验值: 50.0倍
+** 血盟经验值追加: 60.0%
+** 金币: 1.0倍
+** 道具: 1.2倍
+** 正义值: 2.0倍
+** 负重: 2.0倍
+** 武器强化: 10%
+** 防具强化: 10%
+** 饰品强化: 10%
+** 公告周期: 10分钟
+** 连接奖励周期: 12分钟
+
+** altsettings
+** 自动狩猎状态: true
+** 自动药水状态: true
+** 新血盟保护状态: false
+** 队伍最大人数: 30人
+** 队伍最大聊天人数: 30人
+** 血盟BUFF最小人数: 3人
+** 个人仓库最大数量: 150个
+** 血盟仓库最大数量: 150个
+** 自动拾取状态: 0
+** 自动拾取范围: 8格
+** 世界地图清理周期: 15分钟
+
+** charsettings
+** 王族: (最大HP/MP) 3400/800
+** 骑士: (最大HP/MP) 3600/600
+** 精灵: (最大HP/MP) 3000/900
+** 法师: (最大HP/MP) 2800/1800
+** 黑暗精灵: (最大HP/MP) 2000/800
+** 龙骑士: (最大HP/MP) 3000/800
+** 幻术师: (最大HP/MP) 3000/900
+** 狂战士: (最大HP/MP) 3000/1000
+** 等级限制: 99
+** 防具限制: -270
+
+** 其他设置
+** 彩票状态: true
+** 彩票参与等级: 80
+** 彩票投注金额: 1000
+** 彩票奖金: 10000 = (在线人数 × 投注金额)
+** 彩票开奖时间: 19:00,23:00,03:00,07:00,11:00,15:00
+** 是否无限钓鱼: true
+** 角色槽数量: 3个
+
+********************************************************************
+** IP   192.168.110.102   端口 2000
+********************************************************************
+[2024-12-10 01:56:02][127.0.0.1:24706] [접속시도중]:(1/1)
+admin / 1111
+java.sql.SQLException: Illegal mix of collations (euckr_korean_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1055)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3515)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3447)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1951)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2101)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2554)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1761)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1912)
+	at com.mchange.v2.c3p0.impl.NewProxyPreparedStatement.executeQuery(NewProxyPreparedStatement.java:76)
+	at l1j.server.server.GMCommands.isCharacterBlock(GMCommands.java:4562)
+	at l1j.server.server.clientpackets.C_LoginToServer.doEnterWorld(C_LoginToServer.java:286)
+	at l1j.server.server.clientpackets.C_LoginToServer.<init>(C_LoginToServer.java:1155)
+	at l1j.server.server.clientpackets.C_LoginToServerWrap.<init>(C_LoginToServerWrap.java:19)
+	at l1j.server.MJNetSafeSystem.Distribution.SelectCharacterDistributor.handle(SelectCharacterDistributor.java:59)
+	at l1j.server.MJNetSafeSystem.Distribution.MJClientStatus.process(MJClientStatus.java:54)
+	at l1j.server.server.GameClient.handle(GameClient.java:315)
+	at l1j.server.MJNetServer.Codec.MJNSHandler.channelRead(MJNSHandler.java:133)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:642)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:565)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:479)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:441)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:748)
+─────────────────────────────────
+압류중인 캐릭터 [�̼��Ǿ�]이(가) 접속을 시도했습니다.
+─────────────────────────────────
+java.sql.SQLException: Illegal mix of collations (euckr_korean_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1055)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:956)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3515)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3447)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1951)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2101)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2554)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1761)
+	at com.mysql.jdbc.PreparedStatement.executeQuery(PreparedStatement.java:1912)
+	at com.mchange.v2.c3p0.impl.NewProxyPreparedStatement.executeQuery(NewProxyPreparedStatement.java:76)
+	at l1j.server.server.GMCommands.isCharacterBlock(GMCommands.java:4562)
+	at l1j.server.server.clientpackets.C_LoginToServer.doEnterWorld(C_LoginToServer.java:286)
+	at l1j.server.server.clientpackets.C_LoginToServer.<init>(C_LoginToServer.java:1155)
+	at l1j.server.server.clientpackets.C_LoginToServerWrap.<init>(C_LoginToServerWrap.java:19)
+	at l1j.server.MJNetSafeSystem.Distribution.SelectCharacterDistributor.handle(SelectCharacterDistributor.java:59)
+	at l1j.server.MJNetSafeSystem.Distribution.MJClientStatus.process(MJClientStatus.java:54)
+	at l1j.server.server.GameClient.handle(GameClient.java:315)
+	at l1j.server.MJNetServer.Codec.MJNSHandler.channelRead(MJNSHandler.java:133)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:642)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:565)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:479)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:441)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:748)
+─────────────────────────────────
+압류중인 캐릭터 [����׽�Ʈ]이(가) 접속을 시도했습니다.
+─────────────────────────────────
+케릭터 생성: [Wqeqwe] 시간: [오전 1시56분] 생성
+### [클라이언트 접속] 계정: admin | 캐릭터: Wqeqwe | 오전 1시 56분 | 아이피: 127.0.0.1 | 메모리: 470 MB
+### [캐릭터 접속 종료] 캐릭터: Wqeqwe | 계정: admin | 아이피: 127.0.0.1
+### [클라이언트 접속] 계정: admin | 캐릭터: Wqeqwe | 오전 2시 6분 | 아이피: 127.0.0.1 | 메모리: 527 MB
+无法加载'config/buildtime.properties'。请确保文件存在并可访问。
+** world map data: 加载完成 [176ms]
+** armor_enchant_list table: 加载完成 [2ms]
+** weapon_enchant_list table: 加载完成 [1ms]
+** weapon_skill table: 加载完成 [3ms]
+** data/xml/NpcActions: 加载完成 [123ms]
+** data/xml/Cycle/BossCycle.xml:
+加载完成 [52ms]
+** data/xml/Item/HealingPotion.xml: 加载完成 [7ms]
+** weapon_damege table: 加载完成 [2ms]
+** accessory_enchant_list table: 加载完成 [2ms]
+** spawnlist_boss_hot table: 加载完成 1ms
+** server.threads.pc.CharacterQuickCheckThread: 加载完成
+********************************************************************
+
+** rates
+** 经验值: 50.0倍
+** 血盟经验值追加: 60.0%
+** 金币: 1.0倍
+** 道具: 1.2倍
+** 正义值: 2.0倍
+** 负重: 2.0倍
+** 武器强化: 10%
+** 防具强化: 10%
+** 饰品强化: 10%
+** 公告周期: 10分钟
+** 连接奖励周期: 12分钟
+
+** altsettings
+** 自动狩猎状态: true
+** 自动药水状态: true
+** 新血盟保护状态: false
+** 队伍最大人数: 30人
+** 队伍最大聊天人数: 30人
+** 血盟BUFF最小人数: 3人
+** 个人仓库最大数量: 150个
+** 血盟仓库最大数量: 150个
+** 自动拾取状态: 0
+** 自动拾取范围: 8格
+** 世界地图清理周期: 15分钟
+
+** charsettings
+** 王族: (最大HP/MP) 3400/800
+** 骑士: (最大HP/MP) 3600/600
+** 精灵: (最大HP/MP) 3000/900
+** 法师: (最大HP/MP) 2800/1800
+** 黑暗精灵: (最大HP/MP) 2000/800
+** 龙骑士: (最大HP/MP) 3000/800
+** 幻术师: (最大HP/MP) 3000/900
+** 狂战士: (最大HP/MP) 3000/1000
+** 等级限制: 99
+** 防具限制: -270
+
+** 其他设置
+** 彩票状态: true
+** 彩票参与等级: 80
+** 彩票投注金额: 1000
+** 彩票奖金: 10000 = (在线人数 × 投注金额)
+** 彩票开奖时间: 19:00,23:00,03:00,07:00,11:00,15:00
+** 是否无限钓鱼: true
+** 角色槽数量: 3个
+
+********************************************************************
+** IP   192.168.110.102   端口 2000
+********************************************************************
+[2024-12-10 02:30:30][127.0.0.1:29506] [접속시도중]:(1/1)
+admin / 1111
+─────────────────────────────────
+캐릭터를 찾을 수 없습니다.(월드 접속) : null(127.0.0.1)
+─────────────────────────────────
+[2024-12-10 02:30:39][127.0.0.1:29506] 연결 종료[정상]
+[2024-12-10 02:31:10][127.0.0.1:29840] [접속시도중]:(1/1)
+671327 / 82989199
+───────────────────────────────────────
+▶　계정생성초과! 생성시도 계정명 :  671327　◀
+───────────────────────────────────────
+[2024-12-10 02:31:16][127.0.0.1:29840] 연결 종료[정상]
+[2024-12-10 02:31:26][127.0.0.1:29868] [접속시도중]:(1/1)
+admin / 1111
+java.lang.NullPointerException
+	at l1j.server.server.clientpackets.C_CreateChar.<init>(C_CreateChar.java:47)
+	at l1j.server.MJNetSafeSystem.Distribution.SelectCharacterDistributor.handle(SelectCharacterDistributor.java:35)
+	at l1j.server.MJNetSafeSystem.Distribution.MJClientStatus.process(MJClientStatus.java:54)
+	at l1j.server.server.GameClient.handle(GameClient.java:315)
+	at l1j.server.MJNetServer.Codec.MJNSHandler.channelRead(MJNSHandler.java:133)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:642)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:565)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:479)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:441)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.NullPointerException
+	at l1j.server.server.clientpackets.C_CreateChar.<init>(C_CreateChar.java:47)
+	at l1j.server.MJNetSafeSystem.Distribution.SelectCharacterDistributor.handle(SelectCharacterDistributor.java:35)
+	at l1j.server.MJNetSafeSystem.Distribution.MJClientStatus.process(MJClientStatus.java:54)
+	at l1j.server.server.GameClient.handle(GameClient.java:315)
+	at l1j.server.MJNetServer.Codec.MJNSHandler.channelRead(MJNSHandler.java:133)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:642)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:565)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:479)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:441)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.NullPointerException
+	at l1j.server.server.clientpackets.C_CreateChar.<init>(C_CreateChar.java:47)
+	at l1j.server.MJNetSafeSystem.Distribution.SelectCharacterDistributor.handle(SelectCharacterDistributor.java:35)
+	at l1j.server.MJNetSafeSystem.Distribution.MJClientStatus.process(MJClientStatus.java:54)
+	at l1j.server.server.GameClient.handle(GameClient.java:315)
+	at l1j.server.MJNetServer.Codec.MJNSHandler.channelRead(MJNSHandler.java:133)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:642)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:565)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:479)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:441)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.NullPointerException
+	at l1j.server.server.clientpackets.C_CreateChar.<init>(C_CreateChar.java:47)
+	at l1j.server.MJNetSafeSystem.Distribution.SelectCharacterDistributor.handle(SelectCharacterDistributor.java:35)
+	at l1j.server.MJNetSafeSystem.Distribution.MJClientStatus.process(MJClientStatus.java:54)
+	at l1j.server.server.GameClient.handle(GameClient.java:315)
+	at l1j.server.MJNetServer.Codec.MJNSHandler.channelRead(MJNSHandler.java:133)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:642)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:565)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:479)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:441)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.NullPointerException
+	at l1j.server.server.clientpackets.C_CreateChar.<init>(C_CreateChar.java:47)
+	at l1j.server.MJNetSafeSystem.Distribution.SelectCharacterDistributor.handle(SelectCharacterDistributor.java:35)
+	at l1j.server.MJNetSafeSystem.Distribution.MJClientStatus.process(MJClientStatus.java:54)
+	at l1j.server.server.GameClient.handle(GameClient.java:315)
+	at l1j.server.MJNetServer.Codec.MJNSHandler.channelRead(MJNSHandler.java:133)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:642)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:565)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:479)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:441)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.NullPointerException
+	at l1j.server.server.clientpackets.C_CreateChar.<init>(C_CreateChar.java:47)
+	at l1j.server.MJNetSafeSystem.Distribution.SelectCharacterDistributor.handle(SelectCharacterDistributor.java:35)
+	at l1j.server.MJNetSafeSystem.Distribution.MJClientStatus.process(MJClientStatus.java:54)
+	at l1j.server.server.GameClient.handle(GameClient.java:315)
+	at l1j.server.MJNetServer.Codec.MJNSHandler.channelRead(MJNSHandler.java:133)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:642)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:565)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:479)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:441)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.NullPointerException
+	at l1j.server.server.clientpackets.C_CreateChar.<init>(C_CreateChar.java:47)
+	at l1j.server.MJNetSafeSystem.Distribution.SelectCharacterDistributor.handle(SelectCharacterDistributor.java:35)
+	at l1j.server.MJNetSafeSystem.Distribution.MJClientStatus.process(MJClientStatus.java:54)
+	at l1j.server.server.GameClient.handle(GameClient.java:315)
+	at l1j.server.MJNetServer.Codec.MJNSHandler.channelRead(MJNSHandler.java:133)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:642)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:565)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:479)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:441)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.NullPointerException
+	at l1j.server.server.clientpackets.C_CreateChar.<init>(C_CreateChar.java:47)
+	at l1j.server.MJNetSafeSystem.Distribution.SelectCharacterDistributor.handle(SelectCharacterDistributor.java:35)
+	at l1j.server.MJNetSafeSystem.Distribution.MJClientStatus.process(MJClientStatus.java:54)
+	at l1j.server.server.GameClient.handle(GameClient.java:315)
+	at l1j.server.MJNetServer.Codec.MJNSHandler.channelRead(MJNSHandler.java:133)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:642)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:565)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:479)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:441)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.NullPointerException
+	at l1j.server.server.clientpackets.C_CreateChar.<init>(C_CreateChar.java:47)
+	at l1j.server.MJNetSafeSystem.Distribution.SelectCharacterDistributor.handle(SelectCharacterDistributor.java:35)
+	at l1j.server.MJNetSafeSystem.Distribution.MJClientStatus.process(MJClientStatus.java:54)
+	at l1j.server.server.GameClient.handle(GameClient.java:315)
+	at l1j.server.MJNetServer.Codec.MJNSHandler.channelRead(MJNSHandler.java:133)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:642)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:565)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:479)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:441)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.NullPointerException
+	at l1j.server.server.clientpackets.C_CreateChar.<init>(C_CreateChar.java:47)
+	at l1j.server.MJNetSafeSystem.Distribution.SelectCharacterDistributor.handle(SelectCharacterDistributor.java:35)
+	at l1j.server.MJNetSafeSystem.Distribution.MJClientStatus.process(MJClientStatus.java:54)
+	at l1j.server.server.GameClient.handle(GameClient.java:315)
+	at l1j.server.MJNetServer.Codec.MJNSHandler.channelRead(MJNSHandler.java:133)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:341)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1334)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:363)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:349)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:926)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:129)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:642)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:565)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:479)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:441)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:748)
+无法加载'config/buildtime.properties'。请确保文件存在并可访问。
+** world map data: 加载完成 [163ms]
+** armor_enchant_list table: 加载完成 [0ms]
+** weapon_enchant_list table: 加载完成 [1ms]
+** weapon_skill table: 加载完成 [1ms]
+** data/xml/NpcActions: 加载完成 [66ms]
+** data/xml/Cycle/BossCycle.xml: 加载完成 [26ms]
+** data/xml/Item/HealingPotion.xml: 加载完成 [8ms]
+** weapon_damege table: 加载完成 [1ms]
+** accessory_enchant_list table: 加载完成 [1ms]
+** spawnlist_boss_hot table: 加载完成 1ms
+** server.threads.pc.CharacterQuickCheckThread: 加载完成
+
+********************************************************************
+
+** rates
+** 经验值: 50.0倍
+** 血盟经验值追加: 60.0%
+** 金币: 1.0倍
+** 道具: 1.2倍
+** 正义值: 2.0倍
+** 负重: 2.0倍
+** 武器强化: 10%
+** 防具强化: 10%
+** 饰品强化: 10%
+** 公告周期: 10分钟
+** 连接奖励周期: 12分钟
+
+** altsettings
+** 自动狩猎状态: true
+** 自动药水状态: true
+** 新血盟保护状态: false
+** 队伍最大人数: 30人
+** 队伍最大聊天人数: 30人
+** 血盟BUFF最小人数: 3人
+** 个人仓库最大数量: 150个
+** 血盟仓库最大数量: 150个
+** 自动拾取状态: 0
+** 自动拾取范围: 8格
+** 世界地图清理周期: 15分钟
+
+** charsettings
+** 王族: (最大HP/MP) 3400/800
+** 骑士: (最大HP/MP) 3600/600
+** 精灵: (最大HP/MP) 3000/900
+** 法师: (最大HP/MP) 2800/1800
+** 黑暗精灵: (最大HP/MP) 2000/800
+** 龙骑士: (最大HP/MP) 3000/800
+** 幻术师: (最大HP/MP) 3000/900
+** 狂战士: (最大HP/MP) 3000/1000
+** 等级限制: 99
+** 防具限制: -270
+
+** 其他设置
+** 彩票状态: true
+** 彩票参与等级: 80
+** 彩票投注金额: 1000
+** 彩票奖金: 10000 = (在线人数 × 投注金额)
+** 彩票开奖时间: 19:00,23:00,03:00,07:00,11:00,15:00
+** 是否无限钓鱼: true
+** 角色槽数量: 3个
+
+********************************************************************
+** IP   192.168.110.102   端口 2000
+********************************************************************
+[2024-12-10 02:33:46][127.0.0.1:30222] [접속시도중]:(1/1)
+admin / 1111
+### [클라이언트 접속] 계정: admin | 캐릭터: Wqeqwe | 오전 2시 33분 | 아이피: 127.0.0.1 | 메모리: 442 MB

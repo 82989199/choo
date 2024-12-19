@@ -1,0 +1,712 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<TradeItemList>	
+
+ 	<TradeItem Type="1">
+	<Item ItemId="9" Enchant="8" />//오단
+	<Item ItemId="190" Enchant="8" />//앨리스
+	<Item ItemId="505010" Enchant="8" />//진싸울
+	<Item ItemId="124" Enchant="8" />//바지
+	<Item ItemId="121" Enchant="8" />//얼지
+	<Item ItemId="1123" Enchant="8" />//블써
+	<Item ItemId="212" Enchant="8" />//해신의 삼지창
+	<Item ItemId="203005" Enchant="8" />//혈풍의 도끼
+	<Item ItemId="505009" Enchant="8" />//진 레이피어
+	<Item ItemId="203007" Enchant="8" />//거인의 도끼
+	<Item ItemId="84" Enchant="8" />//흑왕도
+	<Item ItemId="164" Enchant="8" />//흑왕아
+	<Item ItemId="189" Enchant="8" />//흑왕궁
+	<Item ItemId="127" Enchant="8" />//강철마나 지팡이
+	</TradeItem>
+  <!---->
+	<TradeItem Type="2">
+	<Item ItemId="9" Enchant="9" />//오단
+	<Item ItemId="190" Enchant="9" />//앨리스
+	<Item ItemId="505010" Enchant="9" />//진싸울
+	<Item ItemId="124" Enchant="9" />//바지
+	<Item ItemId="121" Enchant="9" />//얼지
+	<Item ItemId="1123" Enchant="9" />//블써
+	<Item ItemId="212" Enchant="9" />//해신의 삼지창
+	<Item ItemId="203005" Enchant="9" />//혈풍의 도끼
+	<Item ItemId="505009" Enchant="9" />//진 레이피어
+	<Item ItemId="203007" Enchant="9" />//거인의 도끼
+	<Item ItemId="84" Enchant="9" />//흑왕도
+	<Item ItemId="164" Enchant="9" />//흑왕아
+	<Item ItemId="189" Enchant="9" />//흑왕궁
+	<Item ItemId="127" Enchant="9" />//강철마나 지팡이
+	</TradeItem>
+  <!---->
+	<TradeItem Type="3">
+	<Item ItemId="9" Enchant="10" />//오단
+	<Item ItemId="190" Enchant="10" />//앨리스
+	<Item ItemId="505010" Enchant="10" />//진싸울
+	<Item ItemId="124" Enchant="10" />//바지
+	<Item ItemId="121" Enchant="10" />//얼지
+	<Item ItemId="1123" Enchant="10" />//블써
+	<Item ItemId="212" Enchant="10" />//해신의 삼지창
+	<Item ItemId="203005" Enchant="10" />//혈풍의 도끼
+	<Item ItemId="505009" Enchant="10" />//진 레이피어
+	<Item ItemId="203007" Enchant="10" />//거인의 도끼
+	<Item ItemId="84" Enchant="10" />//흑왕도
+	<Item ItemId="164" Enchant="10" />//흑왕아
+	<Item ItemId="189" Enchant="10" />//흑왕궁
+	<Item ItemId="127" Enchant="10" />//강철마나 지팡이
+	</TradeItem>
+  <!---->
+	<TradeItem Type="3">
+	<Item ItemId="203022" Enchant="8" />//살키
+	<Item ItemId="54" Enchant="8" />//커검
+	<Item ItemId="58" Enchant="8" />//데불
+	<Item ItemId="59" Enchant="8" />//나발
+	<Item ItemId="203017" Enchant="8" />//섬체
+	<Item ItemId="1119" Enchant="8" />//극체
+	<Item ItemId="203018" Enchant="8" />//포효의 이도류
+	<Item ItemId="1137" Enchant="8" />//진노의 크로우
+	<Item ItemId="203006" Enchant="8" />//태풍의 도끼
+	<Item ItemId="202003" Enchant="8" />//제로스의 지팡이
+	<Item ItemId="7000223" Enchant="8" />//살키
+	<Item ItemId="1120" Enchant="8" />//냉키
+	<Item ItemId="1136" Enchant="8" />//악장
+	<Item ItemId="1113" Enchant="8" />//마족검
+	<Item ItemId="1110" Enchant="8" />//마족지팡이
+	<Item ItemId="1109" Enchant="8" />//마족크로우
+	<Item ItemId="1111" Enchant="8" />//마족활
+	<Item ItemId="1108" Enchant="8" />//마족체인소드
+	<Item ItemId="1112" Enchant="8" />//마족키링크
+	<Item ItemId="203011" Enchant="8" />//마족도끼
+	</TradeItem>
+  <!---->
+	<TradeItem Type="4">
+	<Item ItemId="203022" Enchant="9" />//살키
+	<Item ItemId="54" Enchant="9" />//커검
+	<Item ItemId="58" Enchant="9" />//데불
+	<Item ItemId="59" Enchant="9" />//나발
+	<Item ItemId="203017" Enchant="9" />//섬체
+	<Item ItemId="1119" Enchant="9" />//극체
+	<Item ItemId="203018" Enchant="9" />//포효의 이도류
+	<Item ItemId="1137" Enchant="9" />//진노의 크로우
+	<Item ItemId="203006" Enchant="9" />//태풍의 도끼
+	<Item ItemId="202003" Enchant="9" />//제로스의 지팡이
+	<Item ItemId="7000223" Enchant="9" />//살키
+	<Item ItemId="1120" Enchant="9" />//냉키
+	<Item ItemId="1136" Enchant="9" />//악장
+	<Item ItemId="1113" Enchant="9" />//마족검
+	<Item ItemId="1110" Enchant="9" />//마족지팡이
+	<Item ItemId="1109" Enchant="9" />//마족크로우
+	<Item ItemId="1111" Enchant="9" />//마족활
+	<Item ItemId="1108" Enchant="9" />//마족체인소드
+	<Item ItemId="1112" Enchant="9" />//마족키링크
+	<Item ItemId="203011" Enchant="9" />//마족도끼
+	</TradeItem>
+  <!---->
+	<TradeItem Type="5">
+	<Item ItemId="203022" Enchant="10" />//살키
+	<Item ItemId="54" Enchant="10" />//커검
+	<Item ItemId="58" Enchant="10" />//데불
+	<Item ItemId="59" Enchant="10" />//나발
+	<Item ItemId="203017" Enchant="10" />//섬체
+	<Item ItemId="1119" Enchant="10" />//극체
+	<Item ItemId="203018" Enchant="10" />//포효의 이도류
+	<Item ItemId="1137" Enchant="10" />//진노의 크로우
+	<Item ItemId="203006" Enchant="10" />//태풍의 도끼
+	<Item ItemId="202003" Enchant="10" />//제로스의 지팡이
+	<Item ItemId="7000223" Enchant="10" />//살키
+	<Item ItemId="1120" Enchant="10" />//냉키
+	<Item ItemId="1136" Enchant="10" />//악장
+	<Item ItemId="1113" Enchant="10" />//마족검
+	<Item ItemId="1110" Enchant="10" />//마족지팡이
+	<Item ItemId="1109" Enchant="10" />//마족크로우
+	<Item ItemId="1111" Enchant="10" />//마족활
+	<Item ItemId="1108" Enchant="10" />//마족체인소드
+	<Item ItemId="1112" Enchant="10" />//마족키링크
+	<Item ItemId="203011" Enchant="10" />//마족도끼
+	</TradeItem>
+  <!---->
+	<TradeItem Type="6">
+	<Item ItemId="222324" Enchant="6" />//신성한 마법 방어 투구
+	<Item ItemId="900035" Enchant="8" />//신성한 엘름의 축복
+	<Item ItemId="202022" Enchant="6" />//대 마법사의 모자
+	<Item ItemId="22360" Enchant="6" />//신성한 엘름의 축복
+	<Item ItemId="20049" Enchant="6" />//거대 여왕 개미의 금빛 날개
+	<Item ItemId="20050" Enchant="6" />//거대 여왕 개미의 은빛 날개
+	<Item ItemId="20274" Enchant="6" />//빛나는 마력의 장갑
+	<Item ItemId="900036" Enchant="6" />//수호성의 파워글로브
+	<Item ItemId="900037" Enchant="6" />//수호성의 활골무
+	<Item ItemId="22212" Enchant="6" />//타라스의 장갑
+	<Item ItemId="900118" Enchant="6" />//풍령의가더
+	<Item ItemId="900119" Enchant="6" />//수령의가더
+	<Item ItemId="900120" Enchant="6" />//지령의가더
+	<Item ItemId="900117" Enchant="6" />//화령의가더
+	<Item ItemId="900046" Enchant="8" />//신성한 요정족 방패
+	<Item ItemId="222307" Enchant="6" />//완력의 부츠
+	<Item ItemId="222308" Enchant="6" />//민첩의 부츠
+	<Item ItemId="222309" Enchant="6" />//지식의 부츠
+	<Item ItemId="22359" Enchant="6" />//지식의 부츠
+	<Item ItemId="22213" Enchant="6" />//타라스 부츠
+	</TradeItem>
+  <!---->
+	<TradeItem Type="7">
+	<Item ItemId="222324" Enchant="7" />//신성한 마법 방어 투구
+	<Item ItemId="900035" Enchant="7" />//신성한 엘름의 축복
+	<Item ItemId="202022" Enchant="7" />//대 마법사의 모자
+	<Item ItemId="22360" Enchant="9" />//신성한 엘름의 축복
+	<Item ItemId="20049" Enchant="7" />//거대 여왕 개미의 금빛 날개
+	<Item ItemId="20050" Enchant="7" />//거대 여왕 개미의 은빛 날개
+	<Item ItemId="20274" Enchant="7" />//빛나는 마력의 장갑
+	<Item ItemId="900036" Enchant="7" />//수호성의 파워글로브
+	<Item ItemId="900037" Enchant="7" />//수호성의 활골무
+	<Item ItemId="22212" Enchant="7" />//타라스의 장갑
+	<Item ItemId="900118" Enchant="7" />//풍령의가더
+	<Item ItemId="900119" Enchant="7" />//수령의가더
+	<Item ItemId="900120" Enchant="7" />//지령의가더
+	<Item ItemId="900117" Enchant="7" />//화령의가더
+	<Item ItemId="900046" Enchant="9" />//신성한 요정족 방패
+	<Item ItemId="222307" Enchant="7" />//완력의 부츠
+	<Item ItemId="222308" Enchant="7" />//민첩의 부츠
+	<Item ItemId="222309" Enchant="7" />//지식의 부츠
+	<Item ItemId="22359" Enchant="7" />//지식의 부츠
+	<Item ItemId="22213" Enchant="7" />//타라스 부츠
+	</TradeItem>
+  <!---->
+	<TradeItem Type="8">
+	<Item ItemId="222324" Enchant="8" />//신성한 마법 방어 투구
+	<Item ItemId="900035" Enchant="8" />//신성한 엘름의 축복
+	<Item ItemId="202022" Enchant="8" />//대 마법사의 모자
+	<Item ItemId="20049" Enchant="8" />//거대 여왕 개미의 금빛 날개
+	<Item ItemId="20050" Enchant="8" />//거대 여왕 개미의 은빛 날개
+	<Item ItemId="20274" Enchant="8" />//빛나는 마력의 장갑
+	<Item ItemId="900036" Enchant="8" />//수호성의 파워글로브
+	<Item ItemId="900037" Enchant="8" />//수호성의 활골무
+	<Item ItemId="22212" Enchant="8" />//타라스의 장갑
+	<Item ItemId="900118" Enchant="8" />//풍령의가더
+	<Item ItemId="900119" Enchant="8" />//수령의가더
+	<Item ItemId="900120" Enchant="8" />//지령의가더
+	<Item ItemId="900117" Enchant="8" />//화령의가더
+	<Item ItemId="222307" Enchant="8" />//완력의 부츠
+	<Item ItemId="222308" Enchant="8" />//민첩의 부츠
+	<Item ItemId="222309" Enchant="8" />//지식의 부츠
+	<Item ItemId="22359" Enchant="8" />//지식의 부츠
+	<Item ItemId="22213" Enchant="8" />//타라스 부츠
+	</TradeItem>
+  <!---->
+	<TradeItem Type="9">
+	<Item ItemId="222324" Enchant="9" />//신성한 마법 방어 투구
+	<Item ItemId="900035" Enchant="9" />//신성한 엘름의 축복
+	<Item ItemId="202022" Enchant="9" />//대 마법사의 모자
+	<Item ItemId="20049" Enchant="9" />//거대 여왕 개미의 금빛 날개
+	<Item ItemId="20050" Enchant="9" />//거대 여왕 개미의 은빛 날개
+	<Item ItemId="20274" Enchant="9" />//빛나는 마력의 장갑
+	<Item ItemId="900036" Enchant="9" />//수호성의 파워글로브
+	<Item ItemId="900037" Enchant="9" />//수호성의 활골무
+	<Item ItemId="22212" Enchant="9" />//타라스의 장갑
+	<Item ItemId="900118" Enchant="9" />//풍령의가더
+	<Item ItemId="900119" Enchant="9" />//수령의가더
+	<Item ItemId="900120" Enchant="9" />//지령의가더
+	<Item ItemId="900117" Enchant="9" />//화령의가더
+	<Item ItemId="222307" Enchant="9" />//완력의 부츠
+	<Item ItemId="222308" Enchant="9" />//민첩의 부츠
+	<Item ItemId="222309" Enchant="9" />//지식의 부츠
+	<Item ItemId="22359" Enchant="9" />//지식의 부츠
+	<Item ItemId="22213" Enchant="9" />//타라스 부츠
+	</TradeItem>
+  <!---->
+	<TradeItem Type="10">
+	<Item ItemId="900078" Enchant="6" />//은기사 견갑
+	<Item ItemId="900079" Enchant="6" />//사냥꾼 견갑
+	<Item ItemId="900080" Enchant="6" />//예언자 견갑
+	</TradeItem>
+  <!---->
+	<TradeItem Type="11">
+	<Item ItemId="900078" Enchant="7" />//은기사 견갑
+	<Item ItemId="900079" Enchant="7" />//사냥꾼 견갑
+	<Item ItemId="900080" Enchant="7" />//예언자 견갑
+	</TradeItem>
+  <!---->
+	<TradeItem Type="12">
+	<Item ItemId="900078" Enchant="8" />//은기사 견갑
+	<Item ItemId="900079" Enchant="8" />//사냥꾼 견갑
+	<Item ItemId="900080" Enchant="8" />//예언자 견갑
+	</TradeItem>
+  <!---->
+	<TradeItem Type="13">
+	<Item ItemId="900078" Enchant="9" />//은기사 견갑
+	<Item ItemId="900079" Enchant="9" />//사냥꾼 견갑
+	<Item ItemId="900080" Enchant="9" />//예언자 견갑
+	</TradeItem>
+  <!---->
+	<TradeItem Type="14">
+	<Item ItemId="900078" Enchant="10" />//은기사 견갑
+	<Item ItemId="900079" Enchant="10" />//사냥꾼 견갑
+	<Item ItemId="900080" Enchant="10"/>//예언자 견갑
+	</TradeItem>
+  <!---->
+	<TradeItem Type="15">
+	<Item ItemId="22200" Enchant="6" />//파완
+	<Item ItemId="22201" Enchant="6" />//파예
+	<Item ItemId="22202" Enchant="6" />//파인
+	<Item ItemId="22203" Enchant="6" />//파마력
+	<Item ItemId="22196" Enchant="6" />//안완
+	<Item ItemId="22197" Enchant="6" />//안예
+	<Item ItemId="22198" Enchant="6" />//안인
+	<Item ItemId="22199" Enchant="6" />//안마
+	<Item ItemId="22204" Enchant="6" />//린완
+	<Item ItemId="22205" Enchant="6" />//린예
+	<Item ItemId="22206" Enchant="6" />//린인
+	<Item ItemId="22207" Enchant="6" />//린마
+	</TradeItem>
+  <!---->
+	<TradeItem Type="16">
+	<Item ItemId="22200" Enchant="7" />//파완
+	<Item ItemId="22201" Enchant="7" />//파예
+	<Item ItemId="22202" Enchant="7" />//파인
+	<Item ItemId="22203" Enchant="7" />//파마력
+	<Item ItemId="22196" Enchant="7" />//안완
+	<Item ItemId="22197" Enchant="7" />//안예
+	<Item ItemId="22198" Enchant="7" />//안인
+	<Item ItemId="22199" Enchant="7" />//안마
+	<Item ItemId="22204" Enchant="7" />//린완
+	<Item ItemId="22205" Enchant="7" />//린예
+	<Item ItemId="22206" Enchant="7" />//린인
+	<Item ItemId="22207" Enchant="7" />//린마
+	</TradeItem>
+  <!---->
+	<TradeItem Type="17">
+	<Item ItemId="22200" Enchant="8" />//파완
+	<Item ItemId="22201" Enchant="8" />//파예
+	<Item ItemId="22202" Enchant="8" />//파인
+	<Item ItemId="22203" Enchant="8" />//파마력
+	<Item ItemId="22196" Enchant="8" />//안완
+	<Item ItemId="22197" Enchant="8" />//안예
+	<Item ItemId="22198" Enchant="8" />//안인
+	<Item ItemId="22199" Enchant="8" />//안마
+	<Item ItemId="22204" Enchant="8" />//린완
+	<Item ItemId="22205" Enchant="8" />//린예
+	<Item ItemId="22206" Enchant="8" />//린인
+	<Item ItemId="22207" Enchant="8" />//린마
+	</TradeItem>
+  <!---->
+	<TradeItem Type="18">
+	<Item ItemId="22200" Enchant="9" />//파완
+	<Item ItemId="22201" Enchant="9" />//파예
+	<Item ItemId="22202" Enchant="9" />//파인
+	<Item ItemId="22203" Enchant="9" />//파마력
+	<Item ItemId="22196" Enchant="9" />//안완
+	<Item ItemId="22197" Enchant="9" />//안예
+	<Item ItemId="22198" Enchant="9" />//안인
+	<Item ItemId="22199" Enchant="9" />//안마
+	<Item ItemId="22204" Enchant="9" />//린완
+	<Item ItemId="22205" Enchant="9" />//린예
+	<Item ItemId="22206" Enchant="9" />//린인
+	<Item ItemId="22207" Enchant="9" />//린마
+	</TradeItem>
+  <!---->
+	<TradeItem Type="19">
+	<Item ItemId="22200" Enchant="10" />//파완
+	<Item ItemId="22201" Enchant="10" />//파예
+	<Item ItemId="22202" Enchant="10" />//파인
+	<Item ItemId="22203" Enchant="10" />//파마력
+	<Item ItemId="22196" Enchant="10" />//안완
+	<Item ItemId="22197" Enchant="10" />//안예
+	<Item ItemId="22198" Enchant="10" />//안인
+	<Item ItemId="22199" Enchant="10" />//안마
+	<Item ItemId="22204" Enchant="10" />//린완
+	<Item ItemId="22205" Enchant="10" />//린예
+	<Item ItemId="22206" Enchant="10" />//린인
+	<Item ItemId="22207" Enchant="10" />//린마
+	</TradeItem>
+  <!---->
+	<TradeItem Type="20">
+	<Item ItemId="222304" Enchant="5" />//포노스투사의목걸이
+	<Item ItemId="222306" Enchant="5" />//현자의목걸이
+	<Item ItemId="20271" Enchant="5" />//빛나는사이하의목걸이
+	<Item ItemId="30177" Enchant="5" />//완력의벨트
+	<Item ItemId="30178" Enchant="5" />//지식의벨트
+	<Item ItemId="30179" Enchant="5" />//민첩의벨트
+	<Item ItemId="30180" Enchant="5" />//지혜의벨트
+	<Item ItemId="22363" Enchant="5" />//완력의반지
+	<Item ItemId="22364" Enchant="5" />//민첩의반지
+	<Item ItemId="122358" Enchant="5" />//지혜의벨트
+	</TradeItem>
+  <!---->
+	<TradeItem Type="21">
+	<Item ItemId="222304" Enchant="6" />//포노스투사의목걸이
+	<Item ItemId="222306" Enchant="6" />//현자의목걸이
+	<Item ItemId="20271" Enchant="6" />//빛나는사이하의목걸이
+	<Item ItemId="30177" Enchant="6" />//완력의벨트
+	<Item ItemId="30178" Enchant="6" />//지식의벨트
+	<Item ItemId="30179" Enchant="6" />//민첩의벨트
+	<Item ItemId="30180" Enchant="6" />//지혜의벨트
+	<Item ItemId="22363" Enchant="6" />//완력의반지
+	<Item ItemId="22364" Enchant="6" />//민첩의반지
+	<Item ItemId="122358" Enchant="6" />//지혜의벨트
+	</TradeItem>
+  <!---->
+	<TradeItem Type="22">
+	<Item ItemId="222304" Enchant="7" />//포노스투사의목걸이
+	<Item ItemId="222306" Enchant="7" />//현자의목걸이
+	<Item ItemId="20271" Enchant="7" />//빛나는사이하의목걸이
+	<Item ItemId="30177" Enchant="7" />//완력의벨트
+	<Item ItemId="30178" Enchant="7" />//지식의벨트
+	<Item ItemId="30179" Enchant="7" />//민첩의벨트
+	<Item ItemId="30180" Enchant="7" />//지혜의벨트
+	<Item ItemId="22363" Enchant="7" />//완력의반지
+	<Item ItemId="22364" Enchant="7" />//민첩의반지
+	<Item ItemId="122358" Enchant="7" />//지혜의벨트
+	</TradeItem>
+  <!---->
+	<TradeItem Type="23">
+	<Item ItemId="222304" Enchant="8" />//포노스투사의목걸이
+	<Item ItemId="222306" Enchant="8" />//현자의목걸이
+	<Item ItemId="20271" Enchant="8" />//빛나는사이하의목걸이
+	<Item ItemId="30177" Enchant="8" />//완력의벨트
+	<Item ItemId="30178" Enchant="8" />//지식의벨트
+	<Item ItemId="30179" Enchant="8" />//민첩의벨트
+	<Item ItemId="30180" Enchant="8" />//지혜의벨트
+	<Item ItemId="22363" Enchant="8" />//완력의반지
+	<Item ItemId="22364" Enchant="8" />//민첩의반지
+	<Item ItemId="122358" Enchant="8" />//지혜의벨트
+	</TradeItem>
+  <!---->
+	<TradeItem Type="24">
+	<Item ItemId="22229" Enchant="4" />//룸티스의붉은빛귀걸이
+	<Item ItemId="222340" Enchant="4" />//룸티스의검은빛귀걸이
+	<Item ItemId="22231" Enchant="4" />//룸티스의보랏빛귀걸이
+	</TradeItem>
+  <!---->
+	<TradeItem Type="25">
+	<Item ItemId="22229" Enchant="5" />//룸티스의붉은빛귀걸이
+	<Item ItemId="222340" Enchant="5" />//룸티스의검은빛귀걸이
+	<Item ItemId="22231" Enchant="5" />//룸티스의보랏빛귀걸이
+	</TradeItem>
+  <!---->
+	<TradeItem Type="26">
+	<Item ItemId="22229" Enchant="6" />//룸티스의붉은빛귀걸이
+	<Item ItemId="222340" Enchant="6" />//룸티스의검은빛귀걸이
+	<Item ItemId="22231" Enchant="6" />//룸티스의보랏빛귀걸이
+	</TradeItem>
+  <!---->
+	<TradeItem Type="27">
+	<Item ItemId="22229" Enchant="7" />//룸티스의붉은빛귀걸이
+	<Item ItemId="222340" Enchant="7" />//룸티스의검은빛귀걸이
+	<Item ItemId="22231" Enchant="7" />//룸티스의보랏빛귀걸이
+	</TradeItem>
+  <!---->
+	<TradeItem Type="28">
+	<Item ItemId="22229" Enchant="8" />//룸티스의붉은빛귀걸이
+	<Item ItemId="222340" Enchant="8" />//룸티스의검은빛귀걸이
+	<Item ItemId="22231" Enchant="8" />//룸티스의보랏빛귀걸이
+	</TradeItem>
+  <!---->
+	<TradeItem Type="29">
+	<Item ItemId="222290" Enchant="4" />//스냅퍼지혜반지
+	<Item ItemId="222291" Enchant="4" />//스냅퍼용사반지
+	<Item ItemId="22228" Enchant="4" />//스냅퍼마법저항반지
+	<Item ItemId="22226" Enchant="4" />//스냅퍼체력반지
+	<Item ItemId="22225" Enchant="4" />//스냅퍼집중반지
+	<Item ItemId="22227" Enchant="4" />//스냅퍼마나반지
+	<Item ItemId="22224" Enchant="4" />//스냅퍼회복반지
+	</TradeItem>
+  <!---->
+	<TradeItem Type="30">
+	<Item ItemId="222290" Enchant="5" />//스냅퍼지혜반지
+	<Item ItemId="222291" Enchant="5" />//스냅퍼용사반지
+	<Item ItemId="22228" Enchant="5" />//스냅퍼마법저항반지
+	<Item ItemId="22226" Enchant="5" />//스냅퍼체력반지
+	<Item ItemId="22225" Enchant="5" />//스냅퍼집중반지
+	<Item ItemId="22227" Enchant="5" />//스냅퍼마나반지
+	<Item ItemId="22224" Enchant="5" />//스냅퍼회복반지
+	</TradeItem>
+  <!---->
+	<TradeItem Type="31">
+	<Item ItemId="222290" Enchant="6" />//스냅퍼지혜반지
+	<Item ItemId="222291" Enchant="6" />//스냅퍼용사반지
+	<Item ItemId="22228" Enchant="6" />//스냅퍼마법저항반지
+	<Item ItemId="22226" Enchant="6" />//스냅퍼체력반지
+	<Item ItemId="22225" Enchant="6" />//스냅퍼집중반지
+	<Item ItemId="22227" Enchant="6" />//스냅퍼마나반지
+	<Item ItemId="22224" Enchant="6" />//스냅퍼회복반지
+	</TradeItem>
+  <!---->
+	<TradeItem Type="32">
+	<Item ItemId="222290" Enchant="7" />//스냅퍼지혜반지
+	<Item ItemId="222291" Enchant="7" />//스냅퍼용사반지
+	<Item ItemId="22228" Enchant="7" />//스냅퍼마법저항반지
+	<Item ItemId="22226" Enchant="7" />//스냅퍼체력반지
+	<Item ItemId="22225" Enchant="7" />//스냅퍼집중반지
+	<Item ItemId="22227" Enchant="7" />//스냅퍼마나반지
+	<Item ItemId="22224" Enchant="7" />//스냅퍼회복반지
+	</TradeItem>
+  <!---->
+	<TradeItem Type="33">
+	<Item ItemId="222290" Enchant="8" />//스냅퍼지혜반지
+	<Item ItemId="222291" Enchant="8" />//스냅퍼용사반지
+	<Item ItemId="22228" Enchant="8" />//스냅퍼마법저항반지
+	<Item ItemId="22226" Enchant="8" />//스냅퍼체력반지
+	<Item ItemId="22225" Enchant="8" />//스냅퍼집중반지
+	<Item ItemId="22227" Enchant="8" />//스냅퍼마나반지
+	<Item ItemId="22224" Enchant="8" />//스냅퍼회복반지
+	</TradeItem>
+  <!---->
+	<TradeItem Type="34">
+	<Item ItemId="900159" Enchant="5" />//나이트발드의 각반
+	<Item ItemId="900160" Enchant="5" />//아이리스의 각반
+	<Item ItemId="900161" Enchant="5" />//뱀파이어 각반
+	<Item ItemId="900157" Enchant="5" />//쿠거의 가더
+	<Item ItemId="900158" Enchant="5" />//우그누스의 가더
+	<Item ItemId="900156" Enchant="5" />//머미로드의 장갑
+	<Item ItemId="900155" Enchant="5" />//아이리스의 부츠
+	</TradeItem>
+  <!---->
+	<TradeItem Type="35">
+	<Item ItemId="900159" Enchant="6" />//나이트발드의 각반
+	<Item ItemId="900160" Enchant="6" />//아이리스의 각반
+	<Item ItemId="900161" Enchant="6" />//뱀파이어 각반
+	<Item ItemId="900157" Enchant="6" />//쿠거의 가더
+	<Item ItemId="900158" Enchant="6" />//우그누스의 가더
+	<Item ItemId="900156" Enchant="6" />//머미로드의 장갑
+	<Item ItemId="900155" Enchant="6" />//아이리스의 부츠
+	</TradeItem>
+  <!---->
+	<TradeItem Type="36">
+	<Item ItemId="900159" Enchant="7" />//나이트발드의 각반
+	<Item ItemId="900160" Enchant="7" />//아이리스의 각반
+	<Item ItemId="900161" Enchant="7" />//뱀파이어 각반
+	<Item ItemId="900157" Enchant="7" />//쿠거의 가더
+	<Item ItemId="900158" Enchant="7" />//우그누스의 가더
+	<Item ItemId="900156" Enchant="7" />//머미로드의 장갑
+	<Item ItemId="900155" Enchant="7" />//아이리스의 부츠
+	</TradeItem>
+  <!---->
+	<TradeItem Type="37">
+	<Item ItemId="900159" Enchant="8" />//나이트발드의 각반
+	<Item ItemId="900160" Enchant="8" />//아이리스의 각반
+	<Item ItemId="900161" Enchant="8" />//뱀파이어 각반
+	<Item ItemId="900157" Enchant="8" />//쿠거의 가더
+	<Item ItemId="900158" Enchant="8" />//우그누스의 가더
+	<Item ItemId="900156" Enchant="8" />//머미로드의 장갑
+	<Item ItemId="900155" Enchant="8" />//아이리스의 부츠
+	</TradeItem>
+  <!---->
+	<TradeItem Type="38">
+	<Item ItemId="900159" Enchant="9" />//나이트발드의 각반
+	<Item ItemId="900160" Enchant="9" />//아이리스의 각반
+	<Item ItemId="900161" Enchant="9" />//뱀파이어 각반
+	<Item ItemId="900157" Enchant="9" />//쿠거의 가더
+	<Item ItemId="900158" Enchant="9" />//우그누스의 가더
+	<Item ItemId="900156" Enchant="9" />//머미로드의 장갑
+	<Item ItemId="900155" Enchant="9" />//아이리스의 부츠
+	</TradeItem>
+  <!---->
+	<TradeItem Type="39">
+	<Item ItemId="900162" Enchant="0" />//사신의 반지
+	<Item ItemId="20279" Enchant="0" />//라이아 반지
+	<Item ItemId="900163" Enchant="0" />//리치의 반지
+	</TradeItem>
+  <!---->
+	<TradeItem Type="40">
+	<Item ItemId="900162" Enchant="1" />//사신의 반지
+	<Item ItemId="20279" Enchant="1" />//라이아 반지
+	<Item ItemId="900163" Enchant="1" />//리치의 반지
+	</TradeItem>
+  <!---->
+	<TradeItem Type="41">
+	<Item ItemId="900162" Enchant="2" />//사신의 반지
+	<Item ItemId="20279" Enchant="2" />//라이아 반지
+	<Item ItemId="900163" Enchant="2" />//리치의 반지
+	</TradeItem>
+  <!---->
+	<TradeItem Type="42">
+	<Item ItemId="900162" Enchant="3" />//사신의 반지
+	<Item ItemId="20279" Enchant="3" />//라이아 반지
+	<Item ItemId="900163" Enchant="3" />//리치의 반지
+	</TradeItem>
+  <!---->
+	<TradeItem Type="43">
+	<Item ItemId="900162" Enchant="4" />//사신의 반지
+	<Item ItemId="20279" Enchant="4" />//라이아 반지
+	<Item ItemId="900163" Enchant="4" />//리치의 반지
+	</TradeItem>
+  <!---->
+	<TradeItem Type="44">
+	<Item ItemId="900162" Enchant="5" />//사신의 반지
+	<Item ItemId="20279" Enchant="5" />//라이아 반지
+	<Item ItemId="900163" Enchant="5" />//리치의 반지
+	</TradeItem>
+  <!---->
+	<TradeItem Type="45">
+	<Item ItemId="900162" Enchant="6" />//사신의 반지
+	<Item ItemId="20279" Enchant="6" />//라이아 반지
+	<Item ItemId="900163" Enchant="6" />//리치의 반지
+	</TradeItem>
+  <!---->
+	<TradeItem Type="46">
+	<Item ItemId="900162" Enchant="7" />//사신의 반지
+	<Item ItemId="20279" Enchant="7" />//라이아 반지
+	<Item ItemId="900163" Enchant="7" />//리치의 반지
+	</TradeItem>
+  <!---->
+	<TradeItem Type="47">
+	<Item ItemId="222330" Enchant="4" />//축복받은 스냅퍼의 회복반지
+	<Item ItemId="222331" Enchant="4" />//축복받은 스냅퍼의 집중반지
+	<Item ItemId="222332" Enchant="4" />//축복받은 스냅퍼의 체력반지
+	<Item ItemId="222333" Enchant="4" />//축복받은 스냅퍼의 마나반지
+	<Item ItemId="222334" Enchant="4" />//축복받은 스냅퍼의 마법저항 반지
+	<Item ItemId="222335" Enchant="4" />//축복받은 스냅퍼의 지혜반지
+	<Item ItemId="222336" Enchant="4" />//축복받은 스냅퍼의 용사반지
+	</TradeItem>
+  <!---->
+	<TradeItem Type="48">
+	<Item ItemId="222330" Enchant="5" />//축복받은 스냅퍼의 회복반지
+	<Item ItemId="222331" Enchant="5" />//축복받은 스냅퍼의 집중반지
+	<Item ItemId="222332" Enchant="5" />//축복받은 스냅퍼의 체력반지
+	<Item ItemId="222333" Enchant="5" />//축복받은 스냅퍼의 마나반지
+	<Item ItemId="222334" Enchant="5" />//축복받은 스냅퍼의 마법저항 반지
+	<Item ItemId="222335" Enchant="5" />//축복받은 스냅퍼의 지혜반지
+	<Item ItemId="222336" Enchant="5" />//축복받은 스냅퍼의 용사반지
+	</TradeItem>
+  <!---->
+	<TradeItem Type="49">
+	<Item ItemId="222330" Enchant="6" />//축복받은 스냅퍼의 회복반지
+	<Item ItemId="222331" Enchant="6" />//축복받은 스냅퍼의 집중반지
+	<Item ItemId="222332" Enchant="6" />//축복받은 스냅퍼의 체력반지
+	<Item ItemId="222333" Enchant="6" />//축복받은 스냅퍼의 마나반지
+	<Item ItemId="222334" Enchant="6" />//축복받은 스냅퍼의 마법저항 반지
+	<Item ItemId="222335" Enchant="6" />//축복받은 스냅퍼의 지혜반지
+	<Item ItemId="222336" Enchant="6" />//축복받은 스냅퍼의 용사반지
+	</TradeItem>
+  <!---->
+	<TradeItem Type="50">
+	<Item ItemId="222330" Enchant="7" />//축복받은 스냅퍼의 회복반지
+	<Item ItemId="222331" Enchant="7" />//축복받은 스냅퍼의 집중반지
+	<Item ItemId="222332" Enchant="7" />//축복받은 스냅퍼의 체력반지
+	<Item ItemId="222333" Enchant="7" />//축복받은 스냅퍼의 마나반지
+	<Item ItemId="222334" Enchant="7" />//축복받은 스냅퍼의 마법저항 반지
+	<Item ItemId="222335" Enchant="7" />//축복받은 스냅퍼의 지혜반지
+	<Item ItemId="222336" Enchant="7" />//축복받은 스냅퍼의 용사반지
+	</TradeItem>
+  <!---->
+	<TradeItem Type="51">
+	<Item ItemId="222330" Enchant="8" />//축복받은 스냅퍼의 회복반지
+	<Item ItemId="222331" Enchant="8" />//축복받은 스냅퍼의 집중반지
+	<Item ItemId="222332" Enchant="8" />//축복받은 스냅퍼의 체력반지
+	<Item ItemId="222333" Enchant="8" />//축복받은 스냅퍼의 마나반지
+	<Item ItemId="222334" Enchant="8" />//축복받은 스냅퍼의 마법저항 반지
+	<Item ItemId="222335" Enchant="8" />//축복받은 스냅퍼의 지혜반지
+	<Item ItemId="222336" Enchant="8" />//축복받은 스냅퍼의 용사반지
+	</TradeItem>
+  <!---->
+	<TradeItem Type="52">
+	<Item ItemId="22208" Enchant="5" />//발완
+	<Item ItemId="22209" Enchant="5" />//발예
+	<Item ItemId="22210" Enchant="5" />//발인
+	<Item ItemId="22211" Enchant="5" />//발마
+	</TradeItem>
+  <!---->
+	<TradeItem Type="53">
+	<Item ItemId="22208" Enchant="6" />//발완
+	<Item ItemId="22209" Enchant="6" />//발예
+	<Item ItemId="22210" Enchant="6" />//발인
+	<Item ItemId="22211" Enchant="6" />//발마
+	</TradeItem>
+  <!---->
+	<TradeItem Type="54">
+	<Item ItemId="22208" Enchant="7" />//발완
+	<Item ItemId="22209" Enchant="7" />//발예
+	<Item ItemId="22210" Enchant="7" />//발인
+	<Item ItemId="22211" Enchant="7" />//발마
+	</TradeItem>
+  <!---->
+	<TradeItem Type="55">
+	<Item ItemId="22208" Enchant="8" />//발완
+	<Item ItemId="22209" Enchant="8" />//발예
+	<Item ItemId="22210" Enchant="8" />//발인
+	<Item ItemId="22211" Enchant="8" />//발마
+	</TradeItem>
+  <!---->
+	<TradeItem Type="56">
+	<Item ItemId="22208" Enchant="9" />//발완
+	<Item ItemId="22209" Enchant="9" />//발예
+	<Item ItemId="22210" Enchant="9" />//발인
+	<Item ItemId="22211" Enchant="9" />//발마
+	</TradeItem>
+  <!---->
+	<TradeItem Type="57">
+	<Item ItemId="22208" Enchant="10" />//발완
+	<Item ItemId="22209" Enchant="10" />//발예
+	<Item ItemId="22210" Enchant="10" />//발인
+	<Item ItemId="22211" Enchant="10" />//발마
+	</TradeItem>
+  <!---->
+	<TradeItem Type="58">
+	<Item ItemId="900081" Enchant="5" />//투사 수호
+	<Item ItemId="900082" Enchant="5" />//명궁 수호
+	<Item ItemId="900083" Enchant="5" />//현자 수호
+	</TradeItem>
+  <!---->
+	<TradeItem Type="59">
+	<Item ItemId="900081" Enchant="6" />//투사 수호
+	<Item ItemId="900082" Enchant="6" />//명궁 수호
+	<Item ItemId="900083" Enchant="6" />//현자 수호
+	</TradeItem>
+  <!---->
+	<TradeItem Type="60">
+	<Item ItemId="900081" Enchant="7" />//투사 수호
+	<Item ItemId="900082" Enchant="7" />//명궁 수호
+	<Item ItemId="900083" Enchant="7" />//현자 수호
+	</TradeItem>
+  <!---->
+	<TradeItem Type="61">
+	<Item ItemId="900081" Enchant="8" />//투사 수호
+	<Item ItemId="900082" Enchant="8" />//명궁 수호
+	<Item ItemId="900083" Enchant="8" />//현자 수호
+	</TradeItem>
+  <!---->
+	<TradeItem Type="62">
+	<Item ItemId="900124" Enchant="5" />//투사 수호문장
+	<Item ItemId="900125" Enchant="5" />//명궁 수호문장
+	<Item ItemId="900126" Enchant="5" />//현자 수호문장
+	</TradeItem>
+  <!---->
+	<TradeItem Type="63">
+	<Item ItemId="900081" Enchant="6" />//투사 수호문장
+	<Item ItemId="900082" Enchant="6" />//명궁 수호문장
+	<Item ItemId="900083" Enchant="6" />//현자 수호문장
+	</TradeItem>
+  <!---->
+	<TradeItem Type="64">
+	<Item ItemId="900081" Enchant="7" />//투사 수호문장
+	<Item ItemId="900082" Enchant="7" />//명궁 수호문장
+	<Item ItemId="900083" Enchant="7" />//현자 수호문장
+	</TradeItem>
+  <!---->
+	<TradeItem Type="65">
+	<Item ItemId="900081" Enchant="8" />//투사 수호문장
+	<Item ItemId="900082" Enchant="8" />//명궁 수호문장
+	<Item ItemId="900083" Enchant="8" />//현자 수호문장
+	</TradeItem>
+  <!---->
+	<TradeItem Type="66">
+	<Item ItemId="30184" Enchant="5" />//신성기백
+	<Item ItemId="222342" Enchant="5" />//신성일격
+	<Item ItemId="30185" Enchant="5" />//신성마왕
+	</TradeItem>
+  <!---->
+	<TradeItem Type="67">
+	<Item ItemId="30184" Enchant="6" />//신성기백
+	<Item ItemId="222342" Enchant="6" />//신성일격
+	<Item ItemId="30185" Enchant="6" />//신성마왕
+	</TradeItem>
+  <!---->
+	<TradeItem Type="68">
+	<Item ItemId="30184" Enchant="7" />//신성기백
+	<Item ItemId="222342" Enchant="7" />//신성일격
+	<Item ItemId="30185" Enchant="7" />//신성마왕
+	</TradeItem>
+  <!---->
+	<TradeItem Type="69">
+	<Item ItemId="30184" Enchant="8" />//신성기백
+	<Item ItemId="222342" Enchant="8" />//신성일격
+	<Item ItemId="30185" Enchant="8" />//신성마왕
+	</TradeItem>
+  <!---->
+</TradeItemList>

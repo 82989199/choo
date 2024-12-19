@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BossCycleList>
+
+ 	<!-- 오만1~6층 보스 0시00분 기준, 5시간 주기,  60분까지 탐시간 유지 -->	
+	<BossCycle Name="oman">
+		<Cycle Base="0h00m" Period="5h" End="60m"/>
+	</BossCycle>
+
+ 	<!-- 오만1~10 준보스 0시00분 기준, 7시간 주기,  60분 탐시간 유지 -->	
+	<BossCycle Name="oman1">
+		<Cycle Base="0h00m" Period="7h"  End="60m"/>
+	</BossCycle>
+
+	<!-- 세마부대 0시00분 기준, 3시간 주기,  60분 유지 -->	
+	<BossCycle Name="unit">
+		<Cycle Base="0h00m" Period="3h"  End="60m"/>
+	</BossCycle>
+
+ 	<!-- 필드보스 0시00분 기준, 4시간 주기,  60분 유지 -->	
+	<BossCycle Name="field">
+		<Cycle Base="0h00m" Period="2h" End="60m"/>
+	</BossCycle>
+</BossCycleList>

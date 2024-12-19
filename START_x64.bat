@@ -1,0 +1,2 @@
+@java -server -Xms12G -Xmx12G -XX:SurvivorRatio=32 -XX:+UseParNewGC -XX:ParallelGCThreads=4 -XX:+AggressiveOpts -XX:-OmitStackTraceInFastThrow -XX:+UseConcMarkSweepGC -cp Server.jar;lib\xmlapi;lib\c3p0-0.9.1.2.jar;lib\mysql-connector-java-5.1.7-bin.jar;lib\javolution.jar;lib\JTattoo-1.6.10.jar;lib\netty-all-4.1.8.Final.jar;lib\flatlaf-3.4.1.jar;lib\org.eclipse.swt.win32.win32.x86_64_3.100.1.v4234e.jar -Dcom.sun.management.jmxremote l1j.server.swing.chocco
+@pause

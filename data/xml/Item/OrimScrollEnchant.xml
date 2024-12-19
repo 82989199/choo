@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ Item
+ - ItemId
+ - TargetItemId
+ - TargetType
+ 
+ Effect
+ - Enchant
+ - Prob : -1될 확률, 아무일도 없을 확률, +1될 확률 순
+-->
+
+<ItemEffectList>
+	<Item ItemId="810012" TargetType="3" > <!-- 오림의 장신구 강화주문서 -->
+		<Effect Enchant="0" Prob="0,50,50" /> <!-- +0 인챈트에 바를시 -->
+		<Effect Enchant="1" Prob="10,70,20" /> <!-- +1 인챈트에 바를시 -->
+		<Effect Enchant="2" Prob="10,70,20" /> <!-- +2 인챈트에 바를시 -->
+		<Effect Enchant="3" Prob="10,80,10" /> <!-- +3 인챈트에 바를시 -->
+		<Effect Enchant="4" Prob="5,90,5" /> <!-- +4 인챈트에 바를시 -->
+		<Effect Enchant="5" Prob="10,90,0" /> <!-- +5 인챈트에 바를시 -->
+		<Effect Enchant="6" Prob="30,70,0" /> <!-- +6 인챈트에 바를시 -->
+		<Effect Enchant="7" Prob="30,70,0" /> <!-- +7 인챈트에 바를시 -->
+		<Effect Enchant="8" Prob="30,70,0" /> <!-- +8 인챈트에 바를시 -->
+		<Effect Enchant="9" Prob="30,70,0" /> <!-- +9 인챈트에 바를시 -->
+		<Effect Enchant="10" Prob="0,99,1" /> <!-- +10 인챈트에 바를시 -->
+		<Effect Enchant="11" Prob="0,99,1" /> <!-- +11 인챈트에 바를시 -->
+		<Effect Enchant="12" Prob="0,99,1" /> <!-- +12 인챈트에 바를시 -->
+		<Effect Enchant="13" Prob="0,99,1" /> <!-- +13 인챈트에 바를시 -->
+		<Effect Enchant="14" Prob="0,99,1" /> <!-- +14 인챈트에 바를시 -->
+		<Effect Enchant="15" Prob="0,99,1" /> <!-- +15 인챈트에 바를시 -->
+	</Item>
+	
+	<Item ItemId="810013" TargetType="3" > <!-- 축복받은 오림의 강화주문서 -->
+		<Effect Enchant="0" Prob="0,70,30" /> <!-- +0 인챈트에 바를시 -->
+		<Effect Enchant="1" Prob="0,70,30" /> <!-- +1 인챈트에 바를시 -->
+		<Effect Enchant="2" Prob="0,70,30" /> <!-- +2 인챈트에 바를시 -->
+		<Effect Enchant="3" Prob="0,80,20" /> <!-- +3 인챈트에 바를시 -->
+		<Effect Enchant="4" Prob="0,90,10" /> <!-- +4 인챈트에 바를시 -->
+		<Effect Enchant="5" Prob="0,95,5" /> <!-- +5 인챈트에 바를시 -->
+		<Effect Enchant="6" Prob="0,96,4" /> <!-- +6 인챈트에 바를시 -->
+		<Effect Enchant="7" Prob="0,99,1" /> <!-- +7 인챈트에 바를시 -->
+		<Effect Enchant="8" Prob="0,99,1" /> <!-- +8 인챈트에 바를시 -->
+		<Effect Enchant="9" Prob="0,99,1" /> <!-- +9 인챈트에 바를시 -->
+		<Effect Enchant="10" Prob="0,99,1" /> <!-- +10 인챈트에 바를시 -->
+		<Effect Enchant="11" Prob="0,99,1" /> <!-- +11 인챈트에 바를시 -->
+		<Effect Enchant="12" Prob="0,99,1" /> <!-- +12 인챈트에 바를시 -->
+		<Effect Enchant="13" Prob="0,99,1" /> <!-- +13 인챈트에 바를시 -->
+		<Effect Enchant="14" Prob="0,99,1" /> <!-- +14 인챈트에 바를시 -->
+		<Effect Enchant="15" Prob="0,99,1" /> <!-- +15 인챈트에 바를시 -->
+	</Item>
+</ItemEffectList>
